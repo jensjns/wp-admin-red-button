@@ -1,5 +1,6 @@
 WP Admin Red Button
 ===================
+CSS for use in wp-admin. The style of the red button matches the style of the primary button of WordPress 3.5.
 Description
 -----------
 WordPress, y u no have [red button](https://github.com/jensjns/wp-admin-red-button/blob/master/buttons.png)?  
