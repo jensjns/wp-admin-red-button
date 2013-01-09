@@ -9,4 +9,4 @@ The awesome tool [Color schemer](http://www.dhtmlgoodies.com/scripts/color-schem
 
 Usage
 -----
-To use the button you must use both "button" and "button-red" on the element you wish.
+To use the button you must use both "button" and "button-red" classes on the element you want to use as a red button.
