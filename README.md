@@ -2,12 +2,12 @@ Red Button
 ==========
 Description
 -----------
-Plugin Name: Red Button
-Plugin URI: http://jensnilsson.nu
-Description: Red button. For use in WordPress admin-pages.
-Version: 1.0
-Author: Jens Nilsson
-Author URI: http://jensnilsson.nu
+Plugin Name: Red Button  
+Plugin URI: http://jensnilsson.nu  
+Description: Red button. For use in WordPress admin-pages.  
+Version: 1.0  
+Author: Jens Nilsson  
+Author URI: http://jensnilsson.nu  
 Installation
 ------------
 Put the folder in your wp-content/plugins folder then activate the plugin from the plugins page. The css-file will be loaded on admin-pages.
